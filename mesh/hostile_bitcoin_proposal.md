@@ -27,3 +27,5 @@ This project will be developed as an open source online report that can be dicus
 
 A longtime C++ developer and independent Bitcoin developer focused on using Bitcoin with alternative communication technologies. He leads the Lot49 effort to implement a mesh based mobile Bitcoin app and gateway and writes frequently about low-bandwidth Bitcoin and decentralized communication.
 
+Make some edits here...
+
